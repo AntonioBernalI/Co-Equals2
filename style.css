@@ -1,0 +1,77 @@
+body{
+  background-color: #F2F2F2;
+}
+
+h1 {
+  text-align: center;
+  font-family: ScriptC;
+}
+hr{
+  background-color: black;
+  height: 5px;
+  border-radius: 5px;
+}
+
+ul
+{
+  background-color: lightgrey;
+  border-radius: 5px;
+}
+ul li{
+  display: inline;
+  background-color: #555555;
+  padding: 10px;
+  border-radius: 5px;
+  color: lightgrey;
+  margin-right: 5px;
+}
+li a{
+  color: inherit;
+  text-decoration: inherit;
+}
+li a:hover{
+  color: lightblue;
+  text-decoration: underline;
+}
+h2
+{
+  text-align: center;
+  font-family: ScriptC;
+}
+div.a
+{
+  text-align: center;
+}
+i
+{
+  color: dimgrey;
+}
+i:hover
+{
+  color: lightblue;
+}
+h1.noth
+{
+  text-align: left;
+  text-indent: 50px;
+}
+h2.noth
+{
+  width: 50%;
+}
+.gender-roles-container {
+  display: flex;
+  align-items: center; /* Aligns text and image vertically */
+  gap: 20px; /* Adds spacing between text and image */
+}
+
+.gender-roles-container img {
+  height: auto;
+}
+h2
+{
+  border:2px solid darkgrey;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: lightblue;
+}
