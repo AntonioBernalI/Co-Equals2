@@ -75,3 +75,21 @@ h2
   border-radius: 10px;
   background-color: lightblue;
 }
+
+.spec
+{
+  width: 50%;
+  margin: auto;
+  background-color: greenyellow;
+  padding: 10px;
+}
+h2.spec2
+{
+  width: 50%;
+  margin: auto;
+}
+.fact-item
+{
+  background-color: lightgray;
+  color: black;
+}
